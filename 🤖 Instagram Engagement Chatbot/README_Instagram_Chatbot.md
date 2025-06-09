@@ -1,5 +1,7 @@
 # 🤖 Instagram Engagement Chatbot
 
+![Instagram Engagement Chatbot](https://raw.githubusercontent.com/josephmbryantjr123/josephmbryantjr-portfolio/main/projects/Instagram%20Engagement%20Chatbot/instagram_engagement_chatbot_hero.png)
+
 This AI-powered chatbot project was designed to increase engagement and automate direct message interactions for Instagram accounts. Tailored for brand visibility and user experience, it supports customizable greetings, engagement flows, and follow-up messages.
 
 ## 📌 Key Features
@@ -13,7 +15,7 @@ This AI-powered chatbot project was designed to increase engagement and automate
 - Social media automation via AI
 
 ## 📸 Project Visual
-![Instagram Engagement Chatbot](https://github.com/josephmbryantjr123/josephmbryantjr-portfolio/assets/PLACEHOLDER-ID/PLACEHOLDER-FILE.png)
+*Above: Sample chatbot preview graphic showcasing the engagement flow UI.*
 
 ## 🔗 Outcomes
 This chatbot has the potential to reduce manual DM labor by 80%, while increasing customer satisfaction and engagement metrics across key content drops and campaigns.

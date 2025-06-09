@@ -1,5 +1,7 @@
 # 🛠️ Dev Notes: Portfolio Engineering Log
 
+![Dev Notes Hero](https://raw.githubusercontent.com/josephmbryantjr123/josephmbryantjr-portfolio/main/projects/Dev%20Notes/dev_notes_hero.png)
+
 Welcome to the **Dev Notes** section of my professional portfolio. This folder serves as the behind-the-scenes logbook documenting the iterative build process, strategic decision-making, issue resolution, and creative breakthroughs that brought this portfolio to life.
 
 Each entry is time-stamped and grouped by working session, reflecting a transparent view into my engineering mindset, ability to adapt, and commitment to excellence through versioning, feedback loops, and continuous improvement.
