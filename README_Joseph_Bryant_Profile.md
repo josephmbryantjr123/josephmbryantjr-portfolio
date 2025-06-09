@@ -1,6 +1,8 @@
 # 👋 Joseph Bryant | AI Product Strategist & Prompt Engineer  
 *“Leveling up without slowing down.”*
 
+![Joseph Bryant Hero Banner](https://raw.githubusercontent.com/josephmbryantjr123/josephmbryantjr-portfolio/main/profile/joseph_bryant_banner.png)
+
 ---
 
 ## 🔍 Summary
